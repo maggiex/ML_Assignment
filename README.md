@@ -1,5 +1,6 @@
 # ML_Assignment
-
+Assignment for UCL's Msc Machine Learning courses
+By Yuan Zhang
 ## UnsupervisedLearning
 Assignments for Probabilistic and Unsupervised Learning, COMPGI18 and Approximate Inference and Learning in Probabilistic Models, COMPGI16
 
