@@ -2,6 +2,13 @@
 
 Ademo: Emotion Recognition for video advertisements
 
+## File list:
+Data: self-collected data
+optimised paras - graph: optimisation results
+optimised paras - table: optimisation results
+self_report 1.xlsx: self_report of the participants (emotion labels)
+Model.ipynb: codes
+
 ## About Deap Data:
 Deap data should be saved in ./deap_data folder if needed
 
