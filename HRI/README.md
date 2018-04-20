@@ -1,11 +1,11 @@
 # Codes and data of HRI's mini-project
 
-Ademo: Emotion Recognition for video advertisements
+## Ademo: Emotion Recognition for video advertisements
 
-About Deap Data:
+## About Deap Data:
 Deap data should be saved in ./deap_data folder if needed
 
-The structure of codes(Model.ipynb):
+## The structure of codes(Model.ipynb):
 -> Prepare the model
 	-> Import dependencies
 	-> Data loading functions
@@ -16,7 +16,7 @@ The structure of codes(Model.ipynb):
 	-> Model Definition
 -> Run the model
 
-How to run: 
+## How to run: 
 1. Open Model.ipynb
 2. Run every part in "Prepare the model" section orderly
 3. Change the parameters according to the demand of the problems
